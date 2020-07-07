@@ -1,0 +1,1 @@
+id  = 378, name = Miraj, intake = 35, grade = A+
